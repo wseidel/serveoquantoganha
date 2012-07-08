@@ -1,0 +1,153 @@
+<html>
+<head>
+    <title>Quantos Profissionais Valem um Profissional?</title>
+</head>
+<link href="css/bootstrap.css" rel="stylesheet">
+<script src="js/jquery-1.7.2.min.js"></script>
+<script>
+$(document).ready(function() {
+
+    var DADOS;
+
+	var popula = function(d) {
+        DADOS = d;
+		$.each(DADOS, function(i,row){
+			$("#cargo1").append($("<option value="+ i +">"+row.cargo+ " (" +row.classe+")</option>"));
+			$("#cargo2").append($("<option value="+ i +">"+row.cargo+ " (" +row.classe+")</option>"));
+            row.valor = Number( row.valor.replace(",",".") );
+
+		});
+    }
+
+
+    $.ajax({
+        type: "GET",
+        url: "base.json",
+        dataType: "json",
+        success: function(d) {popula(d);}
+     });
+
+
+	$("#botao_comparar").click(function() {
+        if($('#cargo1').val() < 0 || $('#cargo2').val() < 0 ){
+           alert("Cara, selecione pelo menos dois pra comparar, POOOOO !!!!");
+           return;
+        }
+//		var cargo1 = DADOS[$('#cargo1').val()];
+//		var cargo2 = DADOS[$('#cargo2').val()];
+
+		renderizaComparacao( DADOS[$('#cargo1').val()],  DADOS[$('#cargo2').val()]);
+
+	});
+
+
+	var renderizaComparacao = function(cargo1, cargo2) {
+        var maior =  cargo1;
+        var menor =  cargo2;
+        var posMaior = 1;
+        var posMenor = 2;
+        if( maior.valor < menor.valor ){
+	        var tmp = maior;
+	        maior = menor;
+	        menor = tmp;
+            posMaior = 2;
+            posMenor = 1;
+        }
+		var taxas = maior.valor / menor.valor;
+//        alert( maior.valor );
+//        alert( menor.valor);
+//        alert( taxas );
+//        alert( "Um " +maior.cargo +"("+maior.classe+") recebe " + taxas + " vezes mais do que um " +maior.cargo +"("+maior.classe+")" );
+
+
+        $('#titCargo' + posMaior ).html( maior.cargo +"<br>("+maior.classe+") <br> " + maior.valor);
+        $('#titCargo' + posMenor ).html( menor.cargo +"<br>("+menor.classe+") <br> " + menor.valor);
+
+        $('#imgCargo' + posMaior ).html( "<img src=\"img/"+ maior.img +"-120px.png\">" );
+        $('#imgCargo' + posMenor ).html( "" );
+        var imgMenor = "";
+        for(var i=0; i < Math.floor( taxas ) ; i++){
+			imgMenor += "<img src=\"img/"+ menor.img +"-120px.png\">";
+        }
+
+        $('#imgCargo' + posMenor ).html( imgMenor );
+
+        $('#result' + posMaior ).html( "Proporcao: 1 <br> Salario: R$ " + maior.valor );
+        $('#result' + posMenor ).html( "Proporcao: "+ taxas+" <br> Salario: R$ " + menor.valor  );
+
+    }
+
+	/* Daqui pra baixo tem apenas coisas para ajudar no desenvolvimento rápido e testes manuais
+       Não me responsabilizo!!! =D Wesley
+    */
+    var EM_TESTE = false;
+    if(EM_TESTE) {
+		$('#cargo1').change(function (){ 
+		    var v = DADOS[$(this).val() ].valor;
+			alert( v  + "     " + v.replace(",",".") );
+	//		alert( DADOS[$(this).val() ].cargo + " - " +DADOS[$(this).val() ].classe   ); 	
+		});
+		$('#cargo2').change(function (){ 
+			alert( DADOS[$(this).val() ].cargo + " - " +DADOS[$(this).val() ].classe   ); 	
+		});
+	}
+
+/*
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "ESPECIAL / III / ATIVO",
+		"valor": "16558,16"
+		"img": "professor"
+*/
+
+
+});
+
+
+
+ </script>
+
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+    </style>
+<div class="container">
+    <h1>Quantos profissionais valem um profissional</h1>
+    <p><a class="btn btn-primary btn-large" style="display:none">Learn more &raquo;</a></p>
+    <div class="">
+        <div id="cargo">
+            <select id="cargo1">
+                <option value="-1">Escolha o cargo</option>
+            </select>
+            <select id="cargo2">
+                <option value="-1">Escolha o cargo</option>
+            </select>
+            <a id="botao_comparar" class="btn btn-success" href="#"><i class="icon-user icon-white"></i> Comparar</a>
+        </div>
+    </div>
+    <div id="content">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th id="titCargo1">Cargo I</th>
+                    <th id="titCargo2">Cargo II</th>
+                </tr>
+                <tr>
+                    <th id="imgCargo1"></th>
+                    <th id="imgCargo2"></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td id="result1"></td>
+                    <td id="result2"></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+</html>
+

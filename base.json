@@ -1,0 +1,2314 @@
+[
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "ESPECIAL / III / ATIVO",
+		"valor": "16558,16",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "ESPECIAL / II  / ATIVO",
+		"valor": "16313,46",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "ESPECIAL / I   / ATIVO",
+		"valor": "16072,37",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "PRIMEIRA / Vl / ATIVO",
+		"valor": "15604,25",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "PRIMEIRA / V / ATIVO",
+		"valor": "15373,64",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "PRIMEIRA / lV / ATIVO",
+		"valor": "15146,44",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "PRIMEIRA / lll / ATIVO",
+		"valor": "14922,6",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "PRIMEIRA / ll / ATIVO",
+		"valor": "14702,07",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "PRIMEIRA / l / ATIVO",
+		"valor": "14484,8",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "SEGUNDA / Vl / ATIVO",
+		"valor": "14062,91",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "SEGUNDA / V / ATIVO",
+		"valor": "13855,09",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "SEGUNDA / lV / ATIVO",
+		"valor": "13650,33",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "SEGUNDA / lll / ATIVO",
+		"valor": "13448,6",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "SEGUNDA / ll / ATIVO",
+		"valor": "13249,86",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "SEGUNDA / l / ATIVO",
+		"valor": "13054,05",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "TERCEIRA / V / ATIVO",
+		"valor": "12673,83",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "TERCEIRA / lV / ATIVO",
+		"valor": "12486,53",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "TERCEIRA / lll / ATIVO",
+		"valor": "12302",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "TERCEIRA / ll / ATIVO",
+		"valor": "12120,2",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "TERCEIRA / l / ATIVO",
+		"valor": "11941,08",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "ESPECIAL / lll / APOSENTADO",
+		"valor": "16558,1",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "ESPECIAL / ll / APOSENTADO",
+		"valor": "16313,46",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "ESPECIAL / l / APOSENTADO",
+		"valor": "16072,37",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "PRIMEIRA / Vl / APOSENTADO",
+		"valor": "15604,25",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "PRIMEIRA / V / APOSENTADO",
+		"valor": "15373,64",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "PRIMEIRA / lV / APOSENTADO",
+		"valor": "15146,44",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "PRIMEIRA / lll / APOSENTADO",
+		"valor": "14922,6",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "PRIMEIRA / ll / APOSENTADO",
+		"valor": "14702,07",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "PRIMEIRA / l / APOSENTADO",
+		"valor": "14484,8",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "SEGUNDA / Vl / APOSENTADO",
+		"valor": "14062,91",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "SEGUNDA / V / APOSENTADO",
+		"valor": "13855,09",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "SEGUNDA / lV / APOSENTADO",
+		"valor": "13650,33",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "SEGUNDA / lll / APOSENTADO",
+		"valor": "13448,6",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "SEGUNDA / ll / APOSENTADO",
+		"valor": "13249,86",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "SEGUNDA / l / APOSENTADO",
+		"valor": "13054,05",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "TERCEIRA / V / APOSENTADO",
+		"valor": "12673,83",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "TERCEIRA / lV / APOSENTADO",
+		"valor": "12486,53",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "TERCEIRA / lll / APOSENTADO",
+		"valor": "12302",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "TERCEIRA / ll / APOSENTADO",
+		"valor": "12120,2",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "AGÊNCIA BRASILEIRA DE INTELIGÊNCIA - ABIN",
+		"cargo": "Oficial Técnico de Inteligência",
+		"classe": "TERCEIRA / l / APOSENTADO",
+		"valor": "11941,08",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Delegado de Polícia Federal",
+		"classe": "ESPECIAL / ativo",
+		"valor": "19699,82",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Delegado de Polícia Federal",
+		"classe": "Primeira / ativo",
+		"valor": "17498,4",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Delegado de Polícia Federal",
+		"classe": "Segunda / ativo",
+		"valor": "14970,6",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Delegado de Polícia Federal",
+		"classe": "Terceira / ativo",
+		"valor": "13368,68",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Delegado de Polícia Federal",
+		"classe": "ESPECIAL / aposentado",
+		"valor": "19699,82",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Delegado de Polícia Federal",
+		"classe": "Primeira / aposentado",
+		"valor": "17498,4",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Delegado de Polícia Federal",
+		"classe": "Segunda / aposentado",
+		"valor": "14970,6",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Delegado de Polícia Federal",
+		"classe": "Terceira / aposentado",
+		"valor": "13368,68",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Agente de Polícia Federal",
+		"classe": "Especial / aposentado",
+		"valor": "11879,08",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Agente de Polícia Federal",
+		"classe": "Primeira / aposentado",
+		"valor": "9468,92",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Agente de Polícia Federal",
+		"classe": "Segunda / aposentado",
+		"valor": "7885,99",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Agente de Polícia Federal",
+		"classe": "Terceira / aposentado",
+		"valor": "7514,33",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Agente de Polícia Federal",
+		"classe": "Especial / ativo",
+		"valor": "11879,08",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Agente de Polícia Federal",
+		"classe": "Primeira / ativo",
+		"valor": "9468,92",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Agente de Polícia Federal",
+		"classe": "Segunda / ativo",
+		"valor": "7885,99",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Agente de Polícia Federal",
+		"classe": "Terceira / ativo",
+		"valor": "7514,33",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Escrivão de Polícia Federal",
+		"classe": "Especial / aposentado",
+		"valor": "11879,08",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Escrivão de Polícia Federal",
+		"classe": "Primeira / aposentado",
+		"valor": "9468,92",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Escrivão de Polícia Federal",
+		"classe": "Segunda / aposentado",
+		"valor": "7885,99",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Escrivão de Polícia Federal",
+		"classe": "Terceira / aposentado",
+		"valor": "7514,33",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Escrivão de Polícia Federal",
+		"classe": "Especial / ativo",
+		"valor": "11879,08",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Escrivão de Polícia Federal",
+		"classe": "Primeira / ativo",
+		"valor": "9468,92",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Escrivão de Polícia Federal",
+		"classe": "Segunda / ativo",
+		"valor": "7885,99",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Escrivão de Polícia Federal",
+		"classe": "Terceira / ativo",
+		"valor": "7514,33",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Papiloscopista Policial Federal",
+		"classe": "Especial / aposentado",
+		"valor": "11879,08",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Papiloscopista Policial Federal",
+		"classe": "Primeira / aposentado",
+		"valor": "9468,92",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Papiloscopista Policial Federal",
+		"classe": "Segunda / aposentado",
+		"valor": "7885,99",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Papiloscopista Policial Federal",
+		"classe": "Terceira / aposentado",
+		"valor": "7514,33",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Papiloscopista Policial Federal",
+		"classe": "Especial / ativo",
+		"valor": "11879,08",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Papiloscopista Policial Federal",
+		"classe": "Primeira / ativo",
+		"valor": "9468,92",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Papiloscopista Policial Federal",
+		"classe": "Segunda / ativo",
+		"valor": "7885,99",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "POLÍCIA FEDERAL",
+		"cargo": "Papiloscopista Policial Federal",
+		"classe": "Terceira / ativo",
+		"valor": "7514,33",
+		"img": "policiafederal"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "02. ÁREA JURÍDICA",
+		"cargo": "Procurador Federal",
+		"classe": "ESPECIAL / ATIVO",
+		"valor": "19451",
+		"img": "procurador"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "02. ÁREA JURÍDICA",
+		"cargo": "Procurador Federal",
+		"classe": "PRIMEIRA / ATIVO",
+		"valor": "17201,9",
+		"img": "procurador"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "02. ÁREA JURÍDICA",
+		"cargo": "Procurador Federal",
+		"classe": "SEGUNDA / ATIVO",
+		"valor": "14970,6",
+		"img": "procurador"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "02. ÁREA JURÍDICA",
+		"cargo": "Procurador Federal",
+		"classe": "ESPECIAL / APOSENTADO",
+		"valor": "19451",
+		"img": "procurador"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "02. ÁREA JURÍDICA",
+		"cargo": "Procurador Federal",
+		"classe": "PRIMEIRA / APOSENTADO",
+		"valor": "17201,9",
+		"img": "procurador"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "02. ÁREA JURÍDICA",
+		"cargo": "Procurador Federal",
+		"classe": "SEGUNDA / APOSENTADO",
+		"valor": "14970,6",
+		"img": "procurador"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "02. ÁREA JURÍDICA",
+		"cargo": "Procurador da Fazenda Nacional",
+		"classe": "ESPECIAL / ATIVO",
+		"valor": "19451",
+		"img": "procurador"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "02. ÁREA JURÍDICA",
+		"cargo": "Procurador da Fazenda Nacional",
+		"classe": "PRIMEIRA / ATIVO",
+		"valor": "17201,9",
+		"img": "procurador"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "02. ÁREA JURÍDICA",
+		"cargo": "Procurador da Fazenda Nacional",
+		"classe": "SEGUNDA / ATIVO",
+		"valor": "14970,6",
+		"img": "procurador"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "02. ÁREA JURÍDICA",
+		"cargo": "Procurador da Fazenda Nacional",
+		"classe": "ESPECIAL / APOSENTADO",
+		"valor": "19451",
+		"img": "procurador"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "02. ÁREA JURÍDICA",
+		"cargo": "Procurador da Fazenda Nacional",
+		"classe": "PRIMEIRA / APOSENTADO",
+		"valor": "17201,9",
+		"img": "procurador"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "02. ÁREA JURÍDICA",
+		"cargo": "Procurador da Fazenda Nacional",
+		"classe": "SEGUNDA / APOSENTADO",
+		"valor": "14970,6",
+		"img": "procurador"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "Especial / Ativo / 40h / 100pts / III",
+		"valor": "14001",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "Especial / Ativo / 40h / 100pts / II",
+		"valor": "13419,2",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "Especial / Ativo / 40h / 100pts / I",
+		"valor": "13032",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "D / Ativo / 40h / 100pts / III",
+		"valor": "12328",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "D / Ativo / 40h / 100pts / II",
+		"valor": "12122,95",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "D / Ativo / 40h / 100pts / I",
+		"valor": "11923,88",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "C / Ativo / 40h / 100pts / III",
+		"valor": "11489,75",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "C / Ativo / 40h / 100pts / II",
+		"valor": "11309,12",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "C / Ativo / 40h / 100pts / I",
+		"valor": "11133,75",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "B / Ativo / 40h / 100pts / III",
+		"valor": "10751,31",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "B / Ativo / 40h / 100pts / II",
+		"valor": "10592,19",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "B / Ativo / 40h / 100pts / I",
+		"valor": "10437,7",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "A / Ativo / 40h / 100pts / III",
+		"valor": "10100,8",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "A / Ativo / 40h / 100pts / II",
+		"valor": "9960,62",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "A / Ativo / 40h / 100pts / I",
+		"valor": "9824,53",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "Especial / Aposentado / 40h / 100pts / III",
+		"valor": "11357",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "Especial / Aposentado / 40h / 100pts / II",
+		"valor": "9717,6",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "Especial / Aposentado / 40h / 100pts / I",
+		"valor": "9330,4",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "D / Aposentado / 40h / 100pts / III",
+		"valor": "8626,4",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "D / Aposentado / 40h / 100pts / II",
+		"valor": "8421,35",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "D / Aposentado / 40h / 100pts / I",
+		"valor": "8222,28",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "C / Aposentado / 40h / 100pts / III",
+		"valor": "7788,15",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "C / Aposentado / 40h / 100pts / II",
+		"valor": "7607,52",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "C / Aposentado / 40h / 100pts / I",
+		"valor": "7432,15",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "B / Aposentado / 40h / 100pts / III",
+		"valor": "7049,71",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "B / Aposentado / 40h / 100pts / II",
+		"valor": "6890,59",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "B / Aposentado / 40h / 100pts / I",
+		"valor": "6736,1",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "A / Aposentado / 40h / 100pts / III",
+		"valor": "6399,2",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "A / Aposentado / 40h / 100pts / II",
+		"valor": "6259,02",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS",
+		"cargo": "Perito Médico Previdenciário ",
+		"classe": "A / Aposentado / 40h / 100pts / I",
+		"valor": "6259,02",
+		"img": "medico"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "especial / IV / ATIVO",
+		"valor": "18478,45",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "especial / III / ATIVO",
+		"valor": "17965,08",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "especial / II / ATIVO",
+		"valor": "17647,43",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "especial / I / ATIVO",
+		"valor": "17335,39",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "C / III / ATIVO",
+		"valor": "16668,64",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "C / II / ATIVO",
+		"valor": "16341,81",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "C / I / ATIVO",
+		"valor": "16021,38",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "B / III / ATIVO",
+		"valor": "15707,23",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "B / II / ATIVO",
+		"valor": "15103,11",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "B / I / ATIVO",
+		"valor": "14806,97",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "A / III / ATIVO",
+		"valor": "14516,64",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "A / II / ATIVO",
+		"valor": "14232",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "A / I / ATIVO",
+		"valor": "12960,77",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "especial / IV / APOSENTADO",
+		"valor": "18478,45",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "especial / III / APOSENTADO",
+		"valor": "17965,08",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "especial / II / APOSENTADO",
+		"valor": "17647,43",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "especial / I / APOSENTADO",
+		"valor": "17335,39",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "C / III / APOSENTADO",
+		"valor": "16668,64",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "C / II / APOSENTADO",
+		"valor": "16341,81",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "C / I / APOSENTADO",
+		"valor": "16021,38",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "B / III / APOSENTADO",
+		"valor": "15707,23",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "B / II / APOSENTADO",
+		"valor": "15103,11",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "B / I / APOSENTADO",
+		"valor": "14806,97",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "A / III / APOSENTADO",
+		"valor": "14516,64",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "A / II / APOSENTADO",
+		"valor": "14232",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Finanças e Controle",
+		"classe": "A / I / APOSENTADO",
+		"valor": "12960,77",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "especial / IV / ATIVO",
+		"valor": "18478,45",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "especial / III / ATIVO",
+		"valor": "17965,08",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "especial / II / ATIVO",
+		"valor": "17647,43",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "especial / I / ATIVO",
+		"valor": "17335,39",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "C / III / ATIVO",
+		"valor": "16668,64",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "C / II / ATIVO",
+		"valor": "16341,81",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "C / I / ATIVO",
+		"valor": "16021,38",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "B / III / ATIVO",
+		"valor": "15707,23",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "B / II / ATIVO",
+		"valor": "15103,11",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "B / I / ATIVO",
+		"valor": "14806,97",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "A / III / ATIVO",
+		"valor": "14516,64",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "A / II / ATIVO",
+		"valor": "14232",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "A / I / ATIVO",
+		"valor": "12960,77",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "especial / IV / APOSENTADO",
+		"valor": "18478,45",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "especial / III / APOSENTADO",
+		"valor": "17965,08",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "especial / II / APOSENTADO",
+		"valor": "17647,43",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "especial / I / APOSENTADO",
+		"valor": "17335,39",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "C / III / APOSENTADO",
+		"valor": "16668,64",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "C / II / APOSENTADO",
+		"valor": "16341,81",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "C / I / APOSENTADO",
+		"valor": "16021,38",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "B / III / APOSENTADO",
+		"valor": "15707,23",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "B / II / APOSENTADO",
+		"valor": "15103,11",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "B / I / APOSENTADO",
+		"valor": "14806,97",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "A / III / APOSENTADO",
+		"valor": "14516,64",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "A / II / APOSENTADO",
+		"valor": "14232",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Planejamento e Orçamento",
+		"classe": "A / I / APOSENTADO",
+		"valor": "12960,77",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "especial / IV / ATIVO",
+		"valor": "18478,45",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "especial / III / ATIVO",
+		"valor": "17965,08",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "especial / II / ATIVO",
+		"valor": "17647,43",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "especial / I / ATIVO",
+		"valor": "17335,39",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "C / III / ATIVO",
+		"valor": "16668,64",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "C / II / ATIVO",
+		"valor": "16341,81",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "C / I / ATIVO",
+		"valor": "16021,38",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "B / III / ATIVO",
+		"valor": "15707,23",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "B / II / ATIVO",
+		"valor": "15103,11",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "B / I / ATIVO",
+		"valor": "14806,97",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "A / III / ATIVO",
+		"valor": "14516,64",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "A / II / ATIVO",
+		"valor": "14232",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "A / I / ATIVO",
+		"valor": "12960,77",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "especial / IV / APOSENTADO",
+		"valor": "18478,45",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "especial / III / APOSENTADO",
+		"valor": "17965,08",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "especial / II / APOSENTADO",
+		"valor": "17647,43",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "especial / I / APOSENTADO",
+		"valor": "17335,39",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "C / III / APOSENTADO",
+		"valor": "16668,64",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "C / II / APOSENTADO",
+		"valor": "16341,81",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "C / I / APOSENTADO",
+		"valor": "16021,38",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "B / III / APOSENTADO",
+		"valor": "15707,23",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "B / II / APOSENTADO",
+		"valor": "15103,11",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "B / I / APOSENTADO",
+		"valor": "14806,97",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "A / III / APOSENTADO",
+		"valor": "14516,64",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "A / II / APOSENTADO",
+		"valor": "14232",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Analista de Comércio Exterior",
+		"classe": "A / I / APOSENTADO",
+		"valor": "12960,77",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "especial / IV / ATIVO",
+		"valor": "18478,45",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "especial / III / ATIVO",
+		"valor": "17965,08",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "especial / II / ATIVO",
+		"valor": "17647,43",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "especial / I / ATIVO",
+		"valor": "17335,39",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "C / III / ATIVO",
+		"valor": "16668,64",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "C / II / ATIVO",
+		"valor": "16341,81",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "C / I / ATIVO",
+		"valor": "16021,38",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "B / III / ATIVO",
+		"valor": "15707,23",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "B / II / ATIVO",
+		"valor": "15103,11",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "B / I / ATIVO",
+		"valor": "14806,97",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "A / III / ATIVO",
+		"valor": "14516,64",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "A / II / ATIVO",
+		"valor": "14232",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "A / I / ATIVO",
+		"valor": "12960,77",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "especial / IV / APOSENTADO",
+		"valor": "18478,45",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "especial / III / APOSENTADO",
+		"valor": "17965,08",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "especial / II / APOSENTADO",
+		"valor": "17647,43",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "especial / I / APOSENTADO",
+		"valor": "17335,39",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "C / III / APOSENTADO",
+		"valor": "16668,64",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "C / II / APOSENTADO",
+		"valor": "16341,81",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "C / I / APOSENTADO",
+		"valor": "16021,38",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "B / III / APOSENTADO",
+		"valor": "15707,23",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "B / II / APOSENTADO",
+		"valor": "15103,11",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "B / I / APOSENTADO",
+		"valor": "14806,97",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "A / III / APOSENTADO",
+		"valor": "14516,64",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "A / II / APOSENTADO",
+		"valor": "14232",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "GRUPO DE GESTÃO",
+		"cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+		"classe": "A / I / APOSENTADO",
+		"valor": "12960,77",
+		"img": "tbf"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D5 / III / MESTRADO / ATIVO / APOSENTADO",
+		"valor": "2745,36",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D5 / II  / MESTRADO / ATIVO / APOSENTADO",
+		"valor": "2667,79",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D5 / I  / MESTRADO / ATIVO / APOSENTADO",
+		"valor": "2634,69",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D5 / III / DOUTORADO / ATIVO / APOSENTADO",
+		"valor": "3272,4",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D5 / II / DOUTORADO / ATIVO / APOSENTADO",
+		"valor": "3154,18",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D5 / I / DOUTORADO / ATIVO / APOSENTADO",
+		"valor": "3044,56",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D4 / S / SEM RT / ATIVO / APOSENTADO",
+		"valor": "2082,28",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D4 / S / Aperfeiçoamento / ATIVO / APOSENTADO",
+		"valor": "2243,06",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D4 / S / Especialização / ATIVO / APOSENTADO",
+		"valor": "2422,7",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D4 / S  / Mestrado / ATIVO / APOSENTADO",
+		"valor": "2631,31",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D4 / S / Doutorado / ATIVO / APOSENTADO",
+		"valor": "3016,58",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D3 / 4  / SEM RT / ATIVO / APOSENTADO",
+		"valor": "1892,49",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D3 / 3  / SEM RT / ATIVO / APOSENTADO",
+		"valor": "1861,12",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D3 / 2  / SEM RT / ATIVO / APOSENTADO",
+		"valor": "1830,51",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D3 / 1  / SEM RT / ATIVO / APOSENTADO",
+		"valor": "1735,8",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D3 / 4  / Aperfeiçoamento / ATIVO / APOSENTADO",
+		"valor": "2048,05",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D3 / 3  / Aperfeiçoamento / ATIVO / APOSENTADO",
+		"valor": "2009,6",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D3 / 2  / Aperfeiçoamento / ATIVO / APOSENTADO",
+		"valor": "1971,97",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D3 / 1  / Aperfeiçoamento / ATIVO / APOSENTADO",
+		"valor": "1805,47",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D3 / 4  / Especialização / ATIVO / APOSENTADO",
+		"valor": "2087,73",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D3 / 3  / Especialização / ATIVO / APOSENTADO",
+		"valor": "2046,99",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D3 / 2  / Especialização / ATIVO / APOSENTADO",
+		"valor": "2007,16",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D3 / 1  / Especialização / ATIVO / APOSENTADO",
+		"valor": "1903,39",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D3 / 4  / Mestrado / ATIVO / APOSENTADO",
+		"valor": "2357,13",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D3 / 3  / Mestrado / ATIVO / APOSENTADO",
+		"valor": "2311,65",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D3 / 2  / Mestrado / ATIVO / APOSENTADO",
+		"valor": "2267,22",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D3 / 1  / Mestrado / ATIVO / APOSENTADO",
+		"valor": "2158,95",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D3 / 4  / Doutorado / ATIVO / APOSENTADO",
+		"valor": "2742,4",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D3 / 3  / Doutorado / ATIVO / APOSENTADO",
+		"valor": "2688,03",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D3 / 2  / Doutorado / ATIVO / APOSENTADO",
+		"valor": "2634,95",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D3 / 1  / Doutorado / ATIVO / APOSENTADO",
+		"valor": "2518,3",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D2 / 4  / SEM RT / ATIVO / APOSENTADO",
+		"valor": "1692,35",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D2 / 3  / SEM RT / ATIVO / APOSENTADO",
+		"valor": "1670,69",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D2 / 2  / SEM RT / ATIVO / APOSENTADO",
+		"valor": "1649,63",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D2 / 1  / SEM RT / ATIVO / APOSENTADO",
+		"valor": "1629,15",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D2 / 4  / Aperfeiçoamento / ATIVO / APOSENTADO",
+		"valor": "1752,38",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D2 / 3  / Aperfeiçoamento / ATIVO / APOSENTADO",
+		"valor": "1729,6",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D2 / 2  / Aperfeiçoamento / ATIVO / APOSENTADO",
+		"valor": "1707,42",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D2 / 1  / Aperfeiçoamento / ATIVO / APOSENTADO",
+		"valor": "1685,82",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D2 / 4  / Especialização / ATIVO / APOSENTADO",
+		"valor": "1846,78",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D2 / 3  / Especialização / ATIVO / APOSENTADO",
+		"valor": "1816,42",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D2 / 2  / Especialização / ATIVO / APOSENTADO",
+		"valor": "1786,8",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D2 / 1  / Especialização / ATIVO / APOSENTADO",
+		"valor": "1757,87",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D2 / 4  / Mestrado / ATIVO / APOSENTADO",
+		"valor": "2093,91",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D2 / 3  / Mestrado / ATIVO / APOSENTADO",
+		"valor": "2059,45",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D2 / 2  / Mestrado / ATIVO / APOSENTADO",
+		"valor": "2025,84",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D2 / 1  / Mestrado / ATIVO / APOSENTADO",
+		"valor": "1993,04",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D2 / 4  / Doutorado / ATIVO / APOSENTADO",
+		"valor": "2404,96",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D2 / 3  / Doutorado / ATIVO / APOSENTADO",
+		"valor": "2367,28",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D2 / 2  / Doutorado / ATIVO / APOSENTADO",
+		"valor": "2330,65",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D2 / 1  / Doutorado / ATIVO / APOSENTADO",
+		"valor": "2295,07",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D1 / 4  / SEM RT / ATIVO / APOSENTADO",
+		"valor": "1591,49",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D1 / 3  / SEM RT / ATIVO / APOSENTADO",
+		"valor": "1572,64",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D1 / 2  / SEM RT / ATIVO / APOSENTADO",
+		"valor": "1554,3",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D1 / 1  / SEM RT / ATIVO / APOSENTADO",
+		"valor": "1536,46",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D1 / 4  / Aperfeiçoamento / ATIVO / APOSENTADO",
+		"valor": "1647,04",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D1 / 3  / Aperfeiçoamento / ATIVO / APOSENTADO",
+		"valor": "1627,07",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D1 / 2  / Aperfeiçoamento / ATIVO / APOSENTADO",
+		"valor": "1607,61",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D1 / 1  / Aperfeiçoamento / ATIVO / APOSENTADO",
+		"valor": "1588,65",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D1 / 4  / Especialização / ATIVO / APOSENTADO",
+		"valor": "1712,43",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D1 / 3  / Especialização / ATIVO / APOSENTADO",
+		"valor": "1689,64",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D1 / 2  / Especialização / ATIVO / APOSENTADO",
+		"valor": "1667,49",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D1 / 1  / Especialização / ATIVO / APOSENTADO",
+		"valor": "1645,96",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D1 / 4  / Mestrado / ATIVO / APOSENTADO",
+		"valor": "1781,46",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D1 / 3  / Mestrado / ATIVO / APOSENTADO",
+		"valor": "1755,61",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D1 / 2  / Mestrado / ATIVO / APOSENTADO",
+		"valor": "1730,51",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D1 / 1  / Mestrado / ATIVO / APOSENTADO",
+		"valor": "1712,04",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D1 / 4  / Doutorado / ATIVO / APOSENTADO",
+		"valor": "2227,8",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D1 / 3  / Doutorado / ATIVO / APOSENTADO",
+		"valor": "2195,11",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D1 / 2  / Doutorado / ATIVO / APOSENTADO",
+		"valor": "2163,34",
+		"img": "professor"
+	},
+	{
+		"poder": "executivo",
+		"instituicao": "DOCENTE",
+		"cargo": "Cargo de Professor do Ensino Basico Federal – Dedicação exclusiva",
+		"classe": "D1 / 1  / Doutorado / ATIVO / APOSENTADO",
+		"valor": "2132,48",
+		"img": "professor"
+	}
+]
